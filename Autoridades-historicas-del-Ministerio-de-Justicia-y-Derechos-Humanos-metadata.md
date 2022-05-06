@@ -8,7 +8,7 @@ http://datos.jus.gob.ar/dataset/autoridades-historicas-del-ministerio-de-justici
 Características
 ---------------
 
--   **Fecha de Primera Publicación:** 05/05/2022
+-   **Fecha de Primera Publicación:** 06/05/2022
 
 -   **Tags o Etiquetas:** autoridades, presidentes, ministros, secretarios, subsecretarios, ministerios, normas, dependencias, boletín oficial
 
