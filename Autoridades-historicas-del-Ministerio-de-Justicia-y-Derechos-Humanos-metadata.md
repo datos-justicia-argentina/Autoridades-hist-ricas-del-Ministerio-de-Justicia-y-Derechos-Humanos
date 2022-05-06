@@ -8,7 +8,7 @@ http://datos.jus.gob.ar/dataset/autoridades-historicas-del-ministerio-de-justici
 Características
 ---------------
 
--   **Fecha de Primera Publicación:** 06/05/2022
+-   **Fecha de Primera Publicación:** 05/05/2022
 
 -   **Tags o Etiquetas:** autoridades, presidentes, ministros, secretarios, subsecretarios, ministerios, normas, dependencias, boletín oficial
 
@@ -111,4 +111,4 @@ Recursos disponibles
 
 ### Notas
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante nota NO-2022-15438211-APN-DGDYD\#MJ del 17 de febrero de 2022.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Nota: NO-2022-15438211-APN-DGDYD\#MJ](http://datos.jus.gob.ar/resoluciones/NO-2022-17530553-APN-DNPCMJYLP%MJ.pdf) del 17 de febrero de 2022.
