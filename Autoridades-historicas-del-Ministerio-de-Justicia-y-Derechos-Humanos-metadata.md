@@ -18,7 +18,7 @@ Características
 
 -   **Responsable:** Ministerio de Justicia y Derechos Humanos. Dirección de Gestión Documental y Despacho
 
--   **Grupo:**
+-   **Grupo:** Transparencia y Anticorrupción, Legislación
 
 -   **Frecuencia de Actualización:** Eventualmente
 
