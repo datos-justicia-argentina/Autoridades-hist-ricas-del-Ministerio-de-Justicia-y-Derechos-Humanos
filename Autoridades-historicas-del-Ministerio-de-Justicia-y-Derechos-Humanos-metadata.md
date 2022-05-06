@@ -111,4 +111,4 @@ Recursos disponibles
 
 ### Notas
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Nota: NO-2022-15438211-APN-DGDYD\#MJ](http://datos.jus.gob.ar/resoluciones/NO-2022-17530553-APN-DNPCMJYLP%MJ.pdf) del 17 de febrero de 2022.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Nota: NO-2022-15438211-APN-DGDYD\#MJ](http://datos.jus.gob.ar/resoluciones/NO-2022-17530553-APN-DNPCMJYLP-MJ), del 17 de febrero de 2022.
