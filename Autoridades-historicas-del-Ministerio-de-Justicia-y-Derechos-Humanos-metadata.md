@@ -101,7 +101,7 @@ Recursos disponibles
 
 -   **observaciones (string):** observaciones
 
-### Autoridades históricas del Ministerio de Justicia y Derechos Humanos de la Nación
+### Autoridades históricas del Ministerio de Justicia y Derechos Humanos
 
 -   **Nombre:** autoridades-historicas-mjddhh.zip
 
