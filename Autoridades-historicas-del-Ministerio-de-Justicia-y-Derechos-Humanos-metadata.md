@@ -20,7 +20,7 @@ Características
 
 -   **Grupo:** Transparencia y Anticorrupción, Legislación
 
--   **Frecuencia de Actualización:** Eventualmente
+-   **Frecuencia de Actualización:** Eventual
 
 Recursos disponibles
 --------------------
