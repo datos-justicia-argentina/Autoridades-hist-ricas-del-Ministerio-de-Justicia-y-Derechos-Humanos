@@ -111,4 +111,6 @@ Recursos disponibles
 
 ### Notas
 
+[Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
+
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Nota: NO-2022-15438211-APN-DGDYD\#MJ](http://datos.jus.gob.ar/resoluciones/NO-2022-17530553-APN-DNPCMJYLP-MJ), del 17 de febrero de 2022.
