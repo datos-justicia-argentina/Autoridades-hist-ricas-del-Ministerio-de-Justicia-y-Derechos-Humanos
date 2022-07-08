@@ -27,7 +27,7 @@ Recursos disponibles
 
 ### Listado histórico de ministros de Justicia y Derechos Humanos - AAAAMMDD
 
--   **Nombre:** listado-historico-ministros-mjddhh-AAAA-MM-DD.csv
+-   **Nombre:** listado-historico-ministros-mjddhh-AAAAMMDD.csv
 
 -   **Descripción del contenido:** se detalla el listado histórico de designaciones y renuncias de ministros del Ministerio de Justicia y Derechos Humanos de la Nación.
 
@@ -61,7 +61,7 @@ Recursos disponibles
 
 ### Listado histórico de secretarios y subsecretarios del Ministerio de Justicia y Derechos Humanos - AAAAMMDD
 
--   **Nombre:** listado-historico-secretarios-subsecretarios-mjddhh-AAAA-MM-DD.csv
+-   **Nombre:** listado-historico-secretarios-subsecretarios-mjddhh-AAAAMMDD.csv
 
 -   **Descripción del contenido:** se detalla el listado histórico de designaciones y renuncias de Secretarios y Subsecretarios del Ministerio de Justicia y Derechos Humanos de la Nación.
 
