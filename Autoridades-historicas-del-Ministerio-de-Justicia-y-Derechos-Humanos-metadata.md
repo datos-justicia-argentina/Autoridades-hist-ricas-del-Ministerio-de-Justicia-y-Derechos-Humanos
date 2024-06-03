@@ -1,7 +1,7 @@
 Autoridades históricas del Ministerio de Justicia y Derechos Humanos
 ====================================================================
 
-En este conjunto de datos se detalla el listado histórico de designaciones y renuncias de ministros, secretarios y subsecretarios del Ministerio de Justicia y Derechos Humanos de la Nación.
+En este conjunto de datos se detalla el listado histórico de designaciones y renuncias de ministros, secretarios y subsecretarios del Ministerio de Justicia de la Nación.
 
 http://datos.jus.gob.ar/dataset/autoridades-historicas-del-ministerio-de-justicia-y-derechos-humanos
 
@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** autoridades, presidentes, ministros, secretarios, subsecretarios, ministerios, normas, dependencias, boletín oficial
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Dirección de Gestión Documental y Despacho
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección General de Administración
+  
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección General de Administración
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Dirección de Gestión Documental y Despacho
-
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Dirección de Gestión Documental y Despacho
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Gestión Administrativa. Dirección General de Administración
 
 -   **Grupo:** Transparencia y Anticorrupción, Legislación
 
@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre:** listado-historico-ministros-mjddhh-AAAAMMDD.csv
 
--   **Descripción del contenido:** se detalla el listado histórico de designaciones y renuncias de ministros del Ministerio de Justicia y Derechos Humanos de la Nación.
+-   **Descripción del contenido:** se detalla el listado histórico de designaciones y renuncias de ministros del Ministerio de Justicia de la Nación.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -63,7 +63,7 @@ Recursos disponibles
 
 -   **Nombre:** listado-historico-secretarios-subsecretarios-mjddhh-AAAAMMDD.csv
 
--   **Descripción del contenido:** se detalla el listado histórico de designaciones y renuncias de Secretarios y Subsecretarios del Ministerio de Justicia y Derechos Humanos de la Nación.
+-   **Descripción del contenido:** se detalla el listado histórico de designaciones y renuncias de Secretarios y Subsecretarios del Ministerio de Justicia de la Nación.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -105,7 +105,7 @@ Recursos disponibles
 
 -   **Nombre:** autoridades-historicas-mjddhh.zip
 
-**Descripción del contenido:** archivo comprimido que contiene las Autoridades históricas del Ministerio de Justicia y Derechos Humanos de la Nación.
+**Descripción del contenido:** archivo comprimido que contiene las Autoridades históricas del Ministerio de Justicia de la Nación.
 
 -   **Formato:** ZIP
 
