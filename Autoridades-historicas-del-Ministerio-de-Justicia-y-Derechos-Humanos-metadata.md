@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Listado histórico de ministros de Justicia y Derechos Humanos - AAAAMMDD
+### Listado histórico de ministros de Justicia y nos - AAAAMMDD
 
 -   **Nombre:** listado-historico-ministros-mjddhh-AAAAMMDD.csv
 
@@ -59,7 +59,7 @@ Recursos disponibles
 
 -   **cargo_observaciones (string):** observaciones del cargo del funcionario/a
 
-### Listado histórico de secretarios y subsecretarios del Ministerio de Justicia y Derechos Humanos - AAAAMMDD
+### Listado histórico de secretarios y subsecretarios del Ministerio de Justicia - AAAAMMDD
 
 -   **Nombre:** listado-historico-secretarios-subsecretarios-mjddhh-AAAAMMDD.csv
 
@@ -101,7 +101,7 @@ Recursos disponibles
 
 -   **observaciones (string):** observaciones
 
-### Autoridades históricas del Ministerio de Justicia y Derechos Humanos
+### Autoridades históricas del Ministerio de Justicia
 
 -   **Nombre:** autoridades-historicas-mjddhh.zip
 
