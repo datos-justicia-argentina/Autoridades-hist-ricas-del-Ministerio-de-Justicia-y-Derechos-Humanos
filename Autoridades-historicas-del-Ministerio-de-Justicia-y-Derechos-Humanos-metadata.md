@@ -27,7 +27,7 @@ Recursos disponibles
 
 ### Listado histórico de ministros de Justicia y nos - AAAAMMDD
 
--   **Nombre:** listado-historico-ministros-mjddhh-AAAAMMDD.csv
+-   **Nombre:** listado-historico-ministros-mj-AAAAMMDD.csv
 
 -   **Descripción del contenido:** se detalla el listado histórico de designaciones y renuncias de ministros del Ministerio de Justicia de la Nación.
 
@@ -61,7 +61,7 @@ Recursos disponibles
 
 ### Listado histórico de secretarios y subsecretarios del Ministerio de Justicia - AAAAMMDD
 
--   **Nombre:** listado-historico-secretarios-subsecretarios-mjddhh-AAAAMMDD.csv
+-   **Nombre:** listado-historico-secretarios-subsecretarios-mj-AAAAMMDD.csv
 
 -   **Descripción del contenido:** se detalla el listado histórico de designaciones y renuncias de Secretarios y Subsecretarios del Ministerio de Justicia de la Nación.
 
